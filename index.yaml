@@ -1,0 +1,19 @@
+Vcc
+ |
+ R1
+ |
+ |--------- B
+ |         |
+ R2        |
+ |         |
+GND       C
+         |
+         Rc
+         |
+         Q (Transistor)
+         |
+        E
+         |
+         Re
+         |
+        GND
